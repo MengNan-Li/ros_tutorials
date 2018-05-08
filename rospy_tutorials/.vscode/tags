@@ -1,0 +1,206 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AddTwoInts	../007_connection_header/client_connection_header.py	/^from rospy_tutorials.srv import AddTwoInts$/;"	kind:namespace	line:43
+AddTwoInts	../test/test_client_connection_header.py	/^from rospy_tutorials.srv import AddTwoInts$/;"	kind:namespace	line:47
+AddTwoInts	../test/test_server_connection_header.py	/^from rospy_tutorials.srv import AddTwoInts, AddTwoIntsResponse$/;"	kind:namespace	line:48
+AddTwoIntsResponse	../test/test_server_connection_header.py	/^from rospy_tutorials.srv import AddTwoInts, AddTwoIntsResponse$/;"	kind:namespace	line:48
+ChatterListener	../004_listener_subscribe_notify/listener_subscribe_notify.py	/^class ChatterListener(rospy.SubscribeListener):$/;"	kind:class	line:45
+ColorRGBA	../009_advanced_publish/advanced_publish.py	/^from std_msgs.msg import ColorRGBA$/;"	kind:namespace	line:42
+HeaderString	../002_headers/listener_header.py	/^from rospy_tutorials.msg import HeaderString$/;"	kind:namespace	line:42
+HeaderString	../002_headers/talker_header.py	/^from rospy_tutorials.msg import HeaderString$/;"	kind:namespace	line:42
+NAME	../002_headers/listener_header.py	/^NAME = 'listener_header'$/;"	kind:variable	line:44
+NAME	../002_headers/talker_header.py	/^NAME = 'talker_header'$/;"	kind:variable	line:44
+NAME	../003_listener_with_user_data/listener_with_user_data.py	/^NAME = 'listener_with_user_data'$/;"	kind:variable	line:39
+NAME	../004_listener_subscribe_notify/listener_subscribe_notify.py	/^NAME = 'talker_callback'$/;"	kind:variable	line:38
+NAME	../005_add_two_ints/add_two_ints_server	/^NAME = 'add_two_ints_server'$/;"	kind:variable	line:38
+NAME	../007_connection_header/listener_connection_header.py	/^NAME = 'listener_connection_header'$/;"	kind:variable	line:44
+NAME	../007_connection_header/server_connection_header.py	/^NAME = 'add_two_ints_server'$/;"	kind:variable	line:39
+NAME	../test/talker_listener_test.py	/^NAME = 'talker_listener_test'$/;"	kind:variable	line:39
+NAME	../test/test_add_two_ints.py	/^NAME = 'add_two_ints_test'$/;"	kind:variable	line:41
+NAME	../test/test_client_connection_header.py	/^NAME = 'test_client_connection_header'$/;"	kind:variable	line:42
+NAME	../test/test_listener_connection_header.py	/^NAME = 'peer_subscribe_notify_test'$/;"	kind:variable	line:39
+NAME	../test/test_on_shutdown.py	/^NAME = 'peer_subscribe_notify_test'$/;"	kind:variable	line:40
+NAME	../test/test_peer_subscribe_notify.py	/^NAME = 'peer_subscribe_notify_test'$/;"	kind:variable	line:41
+NAME	../test/test_server_connection_header.py	/^NAME = 'test_server_connection_header'$/;"	kind:variable	line:42
+PKG	../test/talker_listener_test.py	/^PKG = 'rospy_tutorials'$/;"	kind:variable	line:38
+PKG	../test/test_add_two_ints.py	/^PKG = 'rospy_tutorials'$/;"	kind:variable	line:40
+PKG	../test/test_client_connection_header.py	/^PKG = 'rospy_tutorials'$/;"	kind:variable	line:41
+PKG	../test/test_listener_connection_header.py	/^PKG = 'rospy_tutorials'$/;"	kind:variable	line:38
+PKG	../test/test_on_shutdown.py	/^PKG = 'rospy_tutorials'$/;"	kind:variable	line:39
+PKG	../test/test_peer_subscribe_notify.py	/^PKG = 'rospy_tutorials'$/;"	kind:variable	line:40
+PKG	../test/test_server_connection_header.py	/^PKG = 'rospy_tutorials'$/;"	kind:variable	line:41
+String	../001_talker_listener/listener.py	/^from std_msgs.msg import String$/;"	kind:namespace	line:39
+String	../001_talker_listener/talker.py	/^from std_msgs.msg import String$/;"	kind:namespace	line:39
+String	../001_talker_listener/talker_timer.py	/^from std_msgs.msg import String$/;"	kind:namespace	line:38
+String	../004_listener_subscribe_notify/listener_subscribe_notify.py	/^from std_msgs.msg import String$/;"	kind:namespace	line:43
+String	../006_parameters/param_talker.py	/^from std_msgs.msg import String$/;"	kind:namespace	line:40
+String	../007_connection_header/listener_connection_header.py	/^from std_msgs.msg import String$/;"	kind:namespace	line:42
+String	../007_connection_header/talker_connection_header.py	/^from std_msgs.msg import String$/;"	kind:namespace	line:40
+String	../008_on_shutdown/publish_on_shutdown.py	/^from std_msgs.msg import String$/;"	kind:namespace	line:40
+String	../test/publish_on_shutdown_test_node.py	/^from std_msgs.msg import String$/;"	kind:namespace	line:40
+String	../test/test_listener_connection_header.py	/^from std_msgs.msg import String$/;"	kind:namespace	line:48
+String	../test/test_on_shutdown.py	/^from std_msgs.msg import String$/;"	kind:namespace	line:49
+String	../test/test_peer_subscribe_notify.py	/^from std_msgs.msg import String$/;"	kind:namespace	line:50
+TestAddTwoInts	../test/test_add_two_ints.py	/^class TestAddTwoInts(unittest.TestCase):$/;"	kind:class	line:50
+TestClientConnectionHeader	../test/test_client_connection_header.py	/^class TestClientConnectionHeader(unittest.TestCase):$/;"	kind:class	line:52
+TestListenerConnectionHeader	../test/test_listener_connection_header.py	/^class TestListenerConnectionHeader(unittest.TestCase):$/;"	kind:class	line:51
+TestOnShutdown	../test/test_on_shutdown.py	/^class TestOnShutdown(unittest.TestCase):$/;"	kind:class	line:52
+TestPeerSubscribeListener	../test/test_peer_subscribe_notify.py	/^class TestPeerSubscribeListener(unittest.TestCase):$/;"	kind:class	line:53
+TestServerConnectionHeader	../test/test_server_connection_header.py	/^class TestServerConnectionHeader(unittest.TestCase):$/;"	kind:class	line:52
+TestTalkerListener	../test/talker_listener_test.py	/^class TestTalkerListener(unittest.TestCase):$/;"	kind:class	line:46
+__init__	../test/talker_listener_test.py	/^    def __init__(self, *args):$/;"	kind:member	line:47
+__init__	../test/test_client_connection_header.py	/^    def __init__(self, *args):$/;"	kind:member	line:53
+__init__	../test/test_listener_connection_header.py	/^    def __init__(self, *args):$/;"	kind:member	line:52
+__init__	../test/test_on_shutdown.py	/^    def __init__(self, *args):$/;"	kind:member	line:53
+__init__	../test/test_peer_subscribe_notify.py	/^    def __init__(self, *args):$/;"	kind:member	line:54
+__init__	../test/test_server_connection_header.py	/^    def __init__(self, *args):$/;"	kind:member	line:53
+add_two_ints	../005_add_two_ints/add_two_ints_server	/^def add_two_ints(req):$/;"	kind:function	line:44
+add_two_ints	../007_connection_header/server_connection_header.py	/^def add_two_ints(req):$/;"	kind:function	line:45
+add_two_ints_client	../005_add_two_ints/add_two_ints_client	/^def add_two_ints_client(x, y):$/;"	kind:function	line:50
+add_two_ints_client	../005_add_two_ints/add_two_ints_client	1;"	kind:file	line:1
+add_two_ints_client	../007_connection_header/client_connection_header.py	/^def add_two_ints_client(x, y):$/;"	kind:function	line:48
+add_two_ints_server	../005_add_two_ints/add_two_ints_server	/^def add_two_ints_server():$/;"	kind:function	line:48
+add_two_ints_server	../005_add_two_ints/add_two_ints_server	1;"	kind:file	line:1
+add_two_ints_server	../007_connection_header/server_connection_header.py	/^def add_two_ints_server():$/;"	kind:function	line:52
+advanced_publish.py	../009_advanced_publish/advanced_publish.py	1;"	kind:file	line:1
+callback	../001_talker_listener/listener.py	/^def callback(data):$/;"	kind:function	line:41
+callback	../002_headers/listener_header.py	/^def callback(data):$/;"	kind:function	line:46
+callback	../003_listener_with_user_data/listener_with_user_data.py	/^def callback(data, args):$/;"	kind:function	line:46
+callback	../007_connection_header/listener_connection_header.py	/^def callback(data):$/;"	kind:function	line:46
+callback	../test/talker_listener_test.py	/^    def callback(self, data):$/;"	kind:member	line:51
+callback	../test/test_listener_connection_header.py	/^    def callback(self, data):$/;"	kind:member	line:56
+callback	../test/test_on_shutdown.py	/^    def callback(self, data):$/;"	kind:member	line:57
+callback	../test/test_peer_subscribe_notify.py	/^    def callback(self, data):$/;"	kind:member	line:58
+client_connection_header.py	../007_connection_header/client_connection_header.py	1;"	kind:file	line:1
+handle_request	../test/test_server_connection_header.py	/^    def handle_request(self, req):$/;"	kind:member	line:59
+listener	../001_talker_listener/listener.py	/^def listener():$/;"	kind:function	line:44
+listener.py	../001_talker_listener/listener.py	1;"	kind:file	line:1
+listener_connection_header.py	../007_connection_header/listener_connection_header.py	1;"	kind:file	line:1
+listener_header	../002_headers/listener_header.py	/^def listener_header():$/;"	kind:function	line:52
+listener_header	../007_connection_header/listener_connection_header.py	/^def listener_header():$/;"	kind:function	line:57
+listener_header.py	../002_headers/listener_header.py	1;"	kind:file	line:1
+listener_subscribe_notify.py	../004_listener_subscribe_notify/listener_subscribe_notify.py	1;"	kind:file	line:1
+listener_with_user_data	../003_listener_with_user_data/listener_with_user_data.py	/^def listener_with_user_data():$/;"	kind:function	line:54
+listener_with_user_data.py	../003_listener_with_user_data/listener_with_user_data.py	1;"	kind:file	line:1
+os	../005_add_two_ints/add_two_ints_client	/^import os$/;"	kind:namespace	line:40
+param_talker	../006_parameters/param_talker.py	/^def param_talker():$/;"	kind:function	line:42
+param_talker.py	../006_parameters/param_talker.py	1;"	kind:file	line:1
+peer_subscribe	../004_listener_subscribe_notify/listener_subscribe_notify.py	/^    def peer_subscribe(self, topic_name, topic_publish, peer_publish):$/;"	kind:member	line:46
+peer_unsubscribe	../004_listener_subscribe_notify/listener_subscribe_notify.py	/^    def peer_unsubscribe(self, topic_name, numPeers):$/;"	kind:member	line:56
+print_function	../test/test_add_two_ints.py	/^from __future__ import print_function$/;"	kind:namespace	line:38
+print_function	../test/test_client_connection_header.py	/^from __future__ import print_function$/;"	kind:namespace	line:39
+print_function	../test/test_on_shutdown.py	/^from __future__ import print_function$/;"	kind:namespace	line:37
+print_function	../test/test_peer_subscribe_notify.py	/^from __future__ import print_function$/;"	kind:namespace	line:38
+print_function	../test/test_server_connection_header.py	/^from __future__ import print_function$/;"	kind:namespace	line:39
+pub	../001_talker_listener/talker_timer.py	/^        pub = rospy.Publisher('chatter', String, queue_size=10)$/;"	kind:variable	line:50
+pub	../008_on_shutdown/publish_on_shutdown.py	/^pub = None$/;"	kind:variable	line:42
+pub	../test/publish_on_shutdown_test_node.py	/^pub = None$/;"	kind:variable	line:42
+publish_callback	../001_talker_listener/talker_timer.py	/^def publish_callback(event):$/;"	kind:function	line:41
+publish_on_shutdown.py	../008_on_shutdown/publish_on_shutdown.py	1;"	kind:file	line:1
+publish_on_shutdown_test_node.py	../test/publish_on_shutdown_test_node.py	1;"	kind:file	line:1
+random	../005_add_two_ints/add_two_ints_client	/^        import random$/;"	kind:namespace	line:87
+random	../007_connection_header/client_connection_header.py	/^        import random$/;"	kind:namespace	line:73
+random	../test/test_client_connection_header.py	/^        import random$/;"	kind:namespace	line:58
+roslib	../test/test_listener_connection_header.py	/^import roslib.scriptutil as scriptutil$/;"	kind:namespace	line:47
+roslib	../test/test_on_shutdown.py	/^import roslib.scriptutil as scriptutil$/;"	kind:namespace	line:48
+roslib	../test/test_peer_subscribe_notify.py	/^import roslib.scriptutil as scriptutil$/;"	kind:namespace	line:49
+rospy	../001_talker_listener/listener.py	/^import rospy$/;"	kind:namespace	line:38
+rospy	../001_talker_listener/talker.py	/^import rospy$/;"	kind:namespace	line:38
+rospy	../001_talker_listener/talker_timer.py	/^import rospy$/;"	kind:namespace	line:37
+rospy	../002_headers/listener_header.py	/^import rospy$/;"	kind:namespace	line:41
+rospy	../002_headers/talker_header.py	/^import rospy$/;"	kind:namespace	line:41
+rospy	../003_listener_with_user_data/listener_with_user_data.py	/^import rospy$/;"	kind:namespace	line:43
+rospy	../004_listener_subscribe_notify/listener_subscribe_notify.py	/^import rospy$/;"	kind:namespace	line:42
+rospy	../005_add_two_ints/add_two_ints_client	/^import rospy$/;"	kind:namespace	line:42
+rospy	../005_add_two_ints/add_two_ints_server	/^import rospy $/;"	kind:namespace	line:42
+rospy	../006_parameters/param_talker.py	/^import rospy$/;"	kind:namespace	line:39
+rospy	../007_connection_header/client_connection_header.py	/^import rospy$/;"	kind:namespace	line:41
+rospy	../007_connection_header/listener_connection_header.py	/^import rospy$/;"	kind:namespace	line:41
+rospy	../007_connection_header/server_connection_header.py	/^import rospy $/;"	kind:namespace	line:43
+rospy	../007_connection_header/talker_connection_header.py	/^import rospy$/;"	kind:namespace	line:39
+rospy	../008_on_shutdown/publish_on_shutdown.py	/^import rospy$/;"	kind:namespace	line:39
+rospy	../009_advanced_publish/advanced_publish.py	/^import rospy$/;"	kind:namespace	line:41
+rospy	../test/publish_on_shutdown_test_node.py	/^import rospy$/;"	kind:namespace	line:39
+rospy	../test/talker_listener_test.py	/^import rospy, rostest$/;"	kind:namespace	line:43
+rospy	../test/test_add_two_ints.py	/^import rospy$/;"	kind:namespace	line:46
+rospy	../test/test_client_connection_header.py	/^import rospy$/;"	kind:namespace	line:48
+rospy	../test/test_listener_connection_header.py	/^import rospy$/;"	kind:namespace	line:45
+rospy	../test/test_on_shutdown.py	/^import rospy$/;"	kind:namespace	line:46
+rospy	../test/test_peer_subscribe_notify.py	/^import rospy$/;"	kind:namespace	line:47
+rospy	../test/test_server_connection_header.py	/^import rospy$/;"	kind:namespace	line:49
+rostest	../test/talker_listener_test.py	/^import rospy, rostest$/;"	kind:namespace	line:43
+rostest	../test/test_add_two_ints.py	/^import rostest$/;"	kind:namespace	line:47
+rostest	../test/test_client_connection_header.py	/^import rostest$/;"	kind:namespace	line:49
+rostest	../test/test_listener_connection_header.py	/^import rostest$/;"	kind:namespace	line:46
+rostest	../test/test_on_shutdown.py	/^import rostest$/;"	kind:namespace	line:47
+rostest	../test/test_peer_subscribe_notify.py	/^import rostest$/;"	kind:namespace	line:48
+rostest	../test/test_server_connection_header.py	/^import rostest$/;"	kind:namespace	line:50
+scriptutil	../test/test_listener_connection_header.py	/^import roslib.scriptutil as scriptutil$/;"	kind:namespace	line:47
+scriptutil	../test/test_on_shutdown.py	/^import roslib.scriptutil as scriptutil$/;"	kind:namespace	line:48
+scriptutil	../test/test_peer_subscribe_notify.py	/^import roslib.scriptutil as scriptutil$/;"	kind:namespace	line:49
+server_connection_header.py	../007_connection_header/server_connection_header.py	1;"	kind:file	line:1
+string	../007_connection_header/client_connection_header.py	/^            import string$/;"	kind:namespace	line:78
+sys	../002_headers/listener_header.py	/^import sys $/;"	kind:namespace	line:39
+sys	../002_headers/talker_header.py	/^import sys$/;"	kind:namespace	line:39
+sys	../003_listener_with_user_data/listener_with_user_data.py	/^import sys$/;"	kind:namespace	line:41
+sys	../004_listener_subscribe_notify/listener_subscribe_notify.py	/^import sys$/;"	kind:namespace	line:40
+sys	../005_add_two_ints/add_two_ints_client	/^import sys$/;"	kind:namespace	line:39
+sys	../007_connection_header/client_connection_header.py	/^import sys$/;"	kind:namespace	line:39
+sys	../007_connection_header/listener_connection_header.py	/^import sys $/;"	kind:namespace	line:39
+sys	../test/talker_listener_test.py	/^import sys, unittest, time$/;"	kind:namespace	line:41
+sys	../test/test_add_two_ints.py	/^import sys$/;"	kind:namespace	line:43
+sys	../test/test_client_connection_header.py	/^import sys$/;"	kind:namespace	line:44
+sys	../test/test_listener_connection_header.py	/^import sys $/;"	kind:namespace	line:41
+sys	../test/test_on_shutdown.py	/^import sys $/;"	kind:namespace	line:42
+sys	../test/test_peer_subscribe_notify.py	/^import sys $/;"	kind:namespace	line:43
+sys	../test/test_server_connection_header.py	/^import sys$/;"	kind:namespace	line:44
+talker	../001_talker_listener/talker.py	/^def talker():$/;"	kind:function	line:41
+talker	../007_connection_header/talker_connection_header.py	/^def talker():$/;"	kind:function	line:42
+talker	../008_on_shutdown/publish_on_shutdown.py	/^def talker():$/;"	kind:function	line:48
+talker	../009_advanced_publish/advanced_publish.py	/^def talker():$/;"	kind:function	line:44
+talker	../test/publish_on_shutdown_test_node.py	/^def talker():$/;"	kind:function	line:53
+talker.py	../001_talker_listener/talker.py	1;"	kind:file	line:1
+talker_callback	../004_listener_subscribe_notify/listener_subscribe_notify.py	/^def talker_callback():$/;"	kind:function	line:61
+talker_connection_header.py	../007_connection_header/talker_connection_header.py	1;"	kind:file	line:1
+talker_header	../002_headers/talker_header.py	/^def talker_header():$/;"	kind:function	line:46
+talker_header.py	../002_headers/talker_header.py	1;"	kind:file	line:1
+talker_listener_test.py	../test/talker_listener_test.py	1;"	kind:file	line:1
+talker_shutdown	../008_on_shutdown/publish_on_shutdown.py	/^def talker_shutdown():$/;"	kind:function	line:44
+talker_shutdown	../test/publish_on_shutdown_test_node.py	/^def talker_shutdown():$/;"	kind:function	line:44
+talker_timer.py	../001_talker_listener/talker_timer.py	1;"	kind:file	line:1
+test_add_two_ints	../test/test_add_two_ints.py	/^    def test_add_two_ints(self):$/;"	kind:member	line:52
+test_add_two_ints.py	../test/test_add_two_ints.py	1;"	kind:file	line:1
+test_add_two_ints_bad_then_good	../test/test_add_two_ints.py	/^    def test_add_two_ints_bad_then_good(self):$/;"	kind:member	line:65
+test_add_two_ints_bad_type	../test/test_add_two_ints.py	/^    def test_add_two_ints_bad_type(self):$/;"	kind:member	line:78
+test_client_connection_header.py	../test/test_client_connection_header.py	1;"	kind:file	line:1
+test_header	../test/test_client_connection_header.py	/^    def test_header(self):$/;"	kind:member	line:57
+test_header	../test/test_server_connection_header.py	/^    def test_header(self):$/;"	kind:member	line:65
+test_listener_connection_header.py	../test/test_listener_connection_header.py	1;"	kind:file	line:1
+test_notify	../test/test_listener_connection_header.py	/^    def test_notify(self):$/;"	kind:member	line:65
+test_notify	../test/test_on_shutdown.py	/^    def test_notify(self):$/;"	kind:member	line:63
+test_notify	../test/test_peer_subscribe_notify.py	/^    def test_notify(self):$/;"	kind:member	line:64
+test_on_shutdown.py	../test/test_on_shutdown.py	1;"	kind:file	line:1
+test_peer_subscribe_notify.py	../test/test_peer_subscribe_notify.py	1;"	kind:file	line:1
+test_server_connection_header.py	../test/test_server_connection_header.py	1;"	kind:file	line:1
+test_talker_listener	../test/talker_listener_test.py	/^    def test_talker_listener(self):$/;"	kind:member	line:55
+time	../test/publish_on_shutdown_test_node.py	/^    import time$/;"	kind:namespace	line:50
+time	../test/publish_on_shutdown_test_node.py	/^    import time$/;"	kind:namespace	line:61
+time	../test/talker_listener_test.py	/^import sys, unittest, time$/;"	kind:namespace	line:41
+time	../test/test_listener_connection_header.py	/^import time$/;"	kind:namespace	line:42
+time	../test/test_on_shutdown.py	/^import time$/;"	kind:namespace	line:43
+time	../test/test_peer_subscribe_notify.py	/^import time$/;"	kind:namespace	line:44
+time	../test/test_server_connection_header.py	/^import time$/;"	kind:namespace	line:45
+timer	../001_talker_listener/talker_timer.py	/^        timer = rospy.Timer(rospy.Duration(1. \/ 10), publish_callback)  # 10Hz$/;"	kind:variable	line:51
+unittest	../test/talker_listener_test.py	/^import sys, unittest, time$/;"	kind:namespace	line:41
+unittest	../test/test_add_two_ints.py	/^import unittest$/;"	kind:namespace	line:44
+unittest	../test/test_client_connection_header.py	/^import unittest$/;"	kind:namespace	line:45
+unittest	../test/test_listener_connection_header.py	/^import unittest$/;"	kind:namespace	line:43
+unittest	../test/test_on_shutdown.py	/^import unittest$/;"	kind:namespace	line:44
+unittest	../test/test_peer_subscribe_notify.py	/^import unittest$/;"	kind:namespace	line:45
+unittest	../test/test_server_connection_header.py	/^import unittest$/;"	kind:namespace	line:46
+usage	../005_add_two_ints/add_two_ints_client	/^def usage():$/;"	kind:function	line:80
+usage	../007_connection_header/client_connection_header.py	/^def usage():$/;"	kind:function	line:67
